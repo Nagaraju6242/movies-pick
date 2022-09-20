@@ -1,4 +1,4 @@
-const BASE_URL = "http://www.omdbapi.com/?apikey=7b1f29b9&s=";
+const BASE_URL = "https://www.omdbapi.com/?apikey=7b1f29b9&s=";
 var timeout = null;
 
 const search = () => {
